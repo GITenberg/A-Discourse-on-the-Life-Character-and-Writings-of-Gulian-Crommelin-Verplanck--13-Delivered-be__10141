@@ -1,0 +1,28 @@
+_repo: A-Discourse-on-the-Life-Character-and-Writings-of-Gulian-Crommelin-Verplanck--13-Delivered-be__10141
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bryant, William Cullen
+    alias: Bryant, W. C. (William Cullen)
+    birthdate: 1794
+    deathdate: 1878
+    gutenberg_agent_id: '3328'
+    url: http://www.gutenberg.org/2009/agents/3328
+    wikipedia: http://en.wikipedia.org/wiki/William_Cullen_Bryant
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Verplanck, Gulian C. (Gulian Crommelin), 1786-1870'
+- !lcc 'PS'
+- !lcsh 'New York (State) -- Biography'
+- GITenberg
+title: "A Discourse on the Life, Character and Writings of Gulian Crommelin Verplanck\r\
+  \nDelivered before the New-York Historical Society, May 17th, 1870"
+url: http://www.gutenberg.org/ebooks/10141
